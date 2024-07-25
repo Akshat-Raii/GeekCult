@@ -1,6 +1,6 @@
 # GeekCult
 
-[attachment_131040148-modified (1)](https://github.com/user-attachments/assets/10cd352b-1449-4a30-b303-bc559c27a563)
+![image](https://github.com/user-attachments/assets/b83803e3-eae1-4463-bae9-0fc4ad1eb018)
 
 
 ## Welcome to GeekCult!
