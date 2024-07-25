@@ -1,6 +1,6 @@
 # GeekCult
 
-![GeekCult Logo]![attachment_131040148-modified (1)](https://github.com/user-attachments/assets/10cd352b-1449-4a30-b303-bc559c27a563)
+[attachment_131040148-modified (1)](https://github.com/user-attachments/assets/10cd352b-1449-4a30-b303-bc559c27a563)
 
 
 ## Welcome to GeekCult!
