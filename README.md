@@ -1,6 +1,7 @@
 # GeekCult
 
-![GeekCult Logo](path/to/logo.png)
+![GeekCult Logo]![attachment_131040148-modified (1)](https://github.com/user-attachments/assets/10cd352b-1449-4a30-b303-bc559c27a563)
+
 
 ## Welcome to GeekCult!
 
@@ -69,6 +70,6 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 5.  **Create a pull request.**
 
-Copy code
+
 
    
